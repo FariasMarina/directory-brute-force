@@ -10,7 +10,7 @@ O directory brute force funciona de uma maneira semelhante, porém ao invés de 
 
 Imagine que você queira encontrar subdomínios no site www.example.com. Talvez esse site possua subdomínios de log-in de administrador, senhas de bancos de dados, informações sensíveis de seus consumidores, etc. Neste exemplo, você infomaria ao programa o domínio em que você quer descobrir os subdomínios (www.example.com) e uma wordlist (um arquivo .txt contendo diversas strings, nesse caso, subdomínios) será inserida ao final. Veja o exemplo a seguir:
 
-![alt text](images/wordlist-example.PNG)
+![alt text](images/wordlist-example.png)
 
 ### Como utilizar
 
