@@ -2,7 +2,7 @@
 
 ### Força bruta em cibersegurança
 
-Um ataque de força bruta busca violar senhas, nome de usuários, URLs e chaves para criptografia inserindo automaticamente valores nos campos em questão. Imagine que você queira acessar a sua antiga conta com o e-mail _johndoe@gmail.com. Com um brute-force de senhas, o programa automaticamente inseriria o seu e-mail e tentaria usar uma lista de senhas diferentes até que a senha correta seja inserida (essa lista de senhas é o que chamamos de wordlist).
+Um ataque de força bruta busca violar senhas, nome de usuários, URLs e chaves para criptografia inserindo automaticamente valores nos campos em questão. Imagine que você queira acessar a sua antiga conta com o e-mail _johndoe@gmail.com_. Com um brute-force de senhas, o programa automaticamente inseriria o seu e-mail e tentaria usar uma lista de senhas diferentes até que a senha correta seja inserida (essa lista de senhas é o que chamamos de wordlist).
 
 ### Directory brute force
 
