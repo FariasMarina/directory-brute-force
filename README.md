@@ -17,6 +17,6 @@ Imagine que você queira encontrar subdomínios no site www.example.com. Talvez 
 Primeiramente, você terá que informar o domínio base em que você deseja encontrar os subdomínios (website URL).   
 Depois, você deverá informar a wordlist (wordlist path).
 
-Lembrando que existem wordlists de diversos tipos. Como estamos lidando com um brute-force de diretórios, precisamos de uma wordlist que contenha direótios. Você pode encontrar elas [no próprio Github.](https://github.com/kkrypt0nn/Wordlists)
+Lembrando que existem wordlists de diversos tipos. Como estamos lidando com um brute-force de diretórios, precisamos de uma wordlist que contenha diretórios. Você pode encontrar elas [no próprio Github.](https://github.com/kkrypt0nn/Wordlists)
 
 ![alt text](images/example.png)
